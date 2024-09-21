@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Cloud Computing and Microservices**
 
-- 👯 I’m looking to collaborate on [Govworld](https://govworld.io/)
-
 - 💬 Ask me about **Backend,NodeJS,NestJs**
 
 - 📫 How to reach me **asaddir5566@gmail.com**
